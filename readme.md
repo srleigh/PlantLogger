@@ -1,4 +1,4 @@
-#Plant Logger
+# Plant Logger
 
 Simple ESP32 logger for sensors attached to my plant. Can measure:
  - Temperature
